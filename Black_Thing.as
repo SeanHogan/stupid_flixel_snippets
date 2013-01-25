@@ -1,4 +1,3 @@
-
   import flash.geom.Point;
   import org.flixel.FlxSprite;
 	import org.flixel.FlxG;
@@ -11,6 +10,8 @@
 	 * 
 	 * FUN CLASS PROJECT make a class thing to hold timer/state/etc states and
 	 * do this all with wrapper functions
+
+EXAMPLE!!!! https://dl.dropbox.com/u/53835171/good_anodyne_pics/20130124_2353_20.gif
 	 */
 	public class Black_Thing extends FlxSprite 
 	{
